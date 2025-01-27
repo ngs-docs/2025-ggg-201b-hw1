@@ -1,1 +1,1 @@
-# 2024-ggg-201b-variant-calling
+# 2025-ggg-201b-hw1
